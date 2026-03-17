@@ -1,5 +1,5 @@
 # 🚀 On Hand Practice Class HSE Data Analytic - Google Colab Setup Guide
-**Download dataset:** [here](https://github.com/ronaldricardo/HSE-Data-Analytic-Portofolio/dataset/Data_K3_Sintetis_1000.xlsx)
+**Download dataset:** [here](https://github.com/ronaldricardo/HSE-Data-Analytic-Portfolio/dataset/Data_K3_Sintetis_1000.xlsx)
 
 ## 1. Mount Google Drive
 ```python
@@ -63,4 +63,4 @@ except:
 ```
 
 ## 5. Run Pipeline
-Continue progress in [here](https://github.com/ronaldricardo/HSE-Data-Analytic-Portofolio/note/Copy_of_Praktik_Hands_On.ipynb)
+Continue progress in [here](https://github.com/ronaldricardo/HSE-Data-Analytic-Portfolio/note/Copy_of_Praktik_Hands_On.ipynb)
