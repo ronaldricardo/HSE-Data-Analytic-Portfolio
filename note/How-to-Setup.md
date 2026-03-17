@@ -64,4 +64,4 @@ except:
 ```
 
 ## 5. Run Pipeline
-Continue progress in [(here)](https://github.com/ronaldricardo/HSE-Data-Analytics-Portfolio/note/Copy_of_Praktik_Hands_On.ipynb)
+Continue progress in [here](https://github.com/ronaldricardo/HSE-Data-Analytic-Portfolio/note/Copy_of_Praktik_Hands_On.ipynb)
