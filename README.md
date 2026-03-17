@@ -1,15 +1,37 @@
-# HSE Data Analytic Portfolio
-**Pipeline Best Practice HSE Data Analytics**  
-*Data Flow → Metadata → ETL → Dashboard K3*
+# 🎯 HSE Data Analytic Portfolio
+**Best Practice HSE Data Analytics using Python**  
+*Raw Data → ETL → Dashboard K3*
 
-[![HSE-Data Analyst](https://img.shields.io/badge/Pipeline-HSE%20Analytics-green)](https://github.com/ronaldricardo/HSE-Data-Analytic-Portfolio)
+[![HSE-Data Analyst](https://img.shields.io/badge/Pipeline-HSE%20Analytics-green)](https://github.com/ronaldricardo/HSE-Data-Analytic-Portfolio/tree/main)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-yellow)](https://pandas.pydata.org/)
 
-## 🎯 Overview
-Class HSE Data Analytic - Dokumen HSE
+**This Portofolio i was created caused joined online class HSE Data Analytic from Dokumen HSE**
 
-**Pipeline:** Metadata  → ETL → Data Warehouse/Data Mart → Dashboard K3
+## 📁 Repository Structure
+HSE-Data-Analytic-Portfolio/  
+**code/**  
+├─ .gitkeep  
+└─ Copy_of_Praktik_Hands_On.ipynb  
+**dataset/**  
+├─ .gitkeep  
+└─ Data_K3_Sintetis_1000.xlsx  
+**note/**  
+└─ How-to-Setup.md  
+**output/**  
+├─ bar_chart.png  
+├─ bar_chart_add_avg.png  
+├─ dounat_chart.png  
+├─ dounat_chart2.png  
+├─ line_chart.png  
+├─ line_chart2.png  
+├─ line_chart_marker.png  
+├─ line_chart_marker2.png  
+├─ line_chart_market_combination_kpi.png  
+├─ pareto_chart.png  
+└─ word_cloud.png  
+**LICENSE**  
+**README.md**
 
 ### Key Learnings
 - ✅ Data flow template business objective
@@ -26,9 +48,14 @@ Class HSE Data Analytic - Dokumen HSE
 | Dept Benchmark | Priority maintenance |
 | WordCloud | Deskripsi insiden keywords |
 
+## 🎯 Quick Start
+1. **[Setup](note/How-to-Setup.md)**
+2. **[Run Analysis](code/Copy_of_Praktik_Hands_On.ipynb)**
+3. **[Use Dataset](dataset/Data_K3_Sintetis_1000.xlsx)**
+
 ## 🛠 Tech Stack
 Python | Pandas | Matplotlib | Numpy | Google Colab
-Dataset: Data_K3_Sintetis_1000.xlsx (13 sheets)
+Dataset: Data_K3_Sintetis_1000.xlsx (13 sheets +)
 
 ---
 [LinkedIn](https://linkedin.com/in/ronaldrt) | [rricardot7@gmail.com](mailto:rricardot7@gmail.com)
