@@ -1,5 +1,5 @@
 # 🚀 On Hand Practice Class HSE Data Analytic - Google Colab Setup Guide
-**Download dataset:** [here](https://github.com/ronaldricardo/HSE-Data-Analytic-Portfolio/dataset)
+**Download dataset:** [here](dataset)
 
 ## 1. Mount Google Drive
 ```python
